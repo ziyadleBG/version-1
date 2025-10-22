@@ -5,6 +5,9 @@ plugins {
     id 'net.minecraftforge.gradle' version '[6.0,6.2)'
 }
 
+mod_id = "thermochange"
+mod_name = "Thermochange"
+mod_authors = "levieuxduvillage, Yu666"
 version = mod_version
 group = mod_group_id
 
